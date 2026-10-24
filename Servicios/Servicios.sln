@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37806.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Servicios", "Servicios\Servicios.vbproj", "{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ServiciosAPI", "ServiciosAPI\ServiciosAPI.vbproj", "{B1CBB69A-5BDE-4674-BDBE-02A34FB643CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1CBB69A-5BDE-4674-BDBE-02A34FB643CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1CBB69A-5BDE-4674-BDBE-02A34FB643CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1CBB69A-5BDE-4674-BDBE-02A34FB643CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1CBB69A-5BDE-4674-BDBE-02A34FB643CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91B4A0C5-4725-4452-847D-F5895596605E}
+	EndGlobalSection
+EndGlobal

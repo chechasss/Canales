@@ -1,0 +1,424 @@
+24/10/2026 10:01:47 - System.ArgumentException: Palabra clave no admitida: 'datasource'.
+   en System.Data.Common.DbConnectionOptions.ParseInternal(Hashtable parsetable, String connectionString, Boolean buildChain, Hashtable synonyms, Boolean firstKey)
+   en System.Data.Common.DbConnectionOptions..ctor(String connectionString, Hashtable synonyms, Boolean useOdbcRules)
+   en System.Data.SqlClient.SqlConnectionString..ctor(String connectionString)
+   en System.Data.SqlClient.SqlConnectionFactory.CreateConnectionOptions(String connectionString, DbConnectionOptions previous)
+   en System.Data.ProviderBase.DbConnectionFactory.GetConnectionPoolGroup(DbConnectionPoolKey key, DbConnectionPoolGroupOptions poolOptions, DbConnectionOptions& userConnectionOptions)
+   en System.Data.SqlClient.SqlConnection.ConnectionString_Set(DbConnectionPoolKey key)
+   en System.Data.SqlClient.SqlConnection.set_ConnectionString(String value)
+   en System.Data.SqlClient.SqlConnection..ctor(String connectionString, SqlCredential credential)
+   en Servicios.ConfiguracionRepo.ObtenerCanal(String canal) en C:\Users\chech\source\repos\Servicios\Servicios\Datos\ConfiguracionRepo.vb:línea 6
+   en Servicios.Empresas.VB$StateMachine_18_CargarEmpresas.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Empresas.aspx.vb:línea 16
+24/10/2026 10:02:34 - System.ArgumentException: Palabra clave no admitida: 'datasource'.
+   en System.Data.Common.DbConnectionOptions.ParseInternal(Hashtable parsetable, String connectionString, Boolean buildChain, Hashtable synonyms, Boolean firstKey)
+   en System.Data.Common.DbConnectionOptions..ctor(String connectionString, Hashtable synonyms, Boolean useOdbcRules)
+   en System.Data.SqlClient.SqlConnectionString..ctor(String connectionString)
+   en System.Data.SqlClient.SqlConnectionFactory.CreateConnectionOptions(String connectionString, DbConnectionOptions previous)
+   en System.Data.ProviderBase.DbConnectionFactory.GetConnectionPoolGroup(DbConnectionPoolKey key, DbConnectionPoolGroupOptions poolOptions, DbConnectionOptions& userConnectionOptions)
+   en System.Data.SqlClient.SqlConnection.ConnectionString_Set(DbConnectionPoolKey key)
+   en System.Data.SqlClient.SqlConnection.set_ConnectionString(String value)
+   en System.Data.SqlClient.SqlConnection..ctor(String connectionString, SqlCredential credential)
+   en Servicios.ConfiguracionRepo.ObtenerCanal(String canal) en C:\Users\chech\source\repos\Servicios\Servicios\Datos\ConfiguracionRepo.vb:línea 6
+   en Servicios.Empresas.VB$StateMachine_18_CargarEmpresas.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Empresas.aspx.vb:línea 16
+24/10/2026 10:03:00 - System.ArgumentException: Palabra clave no admitida: 'datasource'.
+   en System.Data.Common.DbConnectionOptions.ParseInternal(Hashtable parsetable, String connectionString, Boolean buildChain, Hashtable synonyms, Boolean firstKey)
+   en System.Data.Common.DbConnectionOptions..ctor(String connectionString, Hashtable synonyms, Boolean useOdbcRules)
+   en System.Data.SqlClient.SqlConnectionString..ctor(String connectionString)
+   en System.Data.SqlClient.SqlConnectionFactory.CreateConnectionOptions(String connectionString, DbConnectionOptions previous)
+   en System.Data.ProviderBase.DbConnectionFactory.GetConnectionPoolGroup(DbConnectionPoolKey key, DbConnectionPoolGroupOptions poolOptions, DbConnectionOptions& userConnectionOptions)
+   en System.Data.SqlClient.SqlConnection.ConnectionString_Set(DbConnectionPoolKey key)
+   en System.Data.SqlClient.SqlConnection.set_ConnectionString(String value)
+   en System.Data.SqlClient.SqlConnection..ctor(String connectionString, SqlCredential credential)
+   en Servicios.ConfiguracionRepo.ObtenerCanal(String canal) en C:\Users\chech\source\repos\Servicios\Servicios\Datos\ConfiguracionRepo.vb:línea 6
+   en Servicios.Empresas.VB$StateMachine_18_CargarEmpresas.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Empresas.aspx.vb:línea 16
+24/10/2026 10:03:36 - System.ArgumentException: Palabra clave no admitida: 'datasource'.
+   en System.Data.Common.DbConnectionOptions.ParseInternal(Hashtable parsetable, String connectionString, Boolean buildChain, Hashtable synonyms, Boolean firstKey)
+   en System.Data.Common.DbConnectionOptions..ctor(String connectionString, Hashtable synonyms, Boolean useOdbcRules)
+   en System.Data.SqlClient.SqlConnectionString..ctor(String connectionString)
+   en System.Data.SqlClient.SqlConnectionFactory.CreateConnectionOptions(String connectionString, DbConnectionOptions previous)
+   en System.Data.ProviderBase.DbConnectionFactory.GetConnectionPoolGroup(DbConnectionPoolKey key, DbConnectionPoolGroupOptions poolOptions, DbConnectionOptions& userConnectionOptions)
+   en System.Data.SqlClient.SqlConnection.ConnectionString_Set(DbConnectionPoolKey key)
+   en System.Data.SqlClient.SqlConnection.set_ConnectionString(String value)
+   en System.Data.SqlClient.SqlConnection..ctor(String connectionString, SqlCredential credential)
+   en Servicios.ConfiguracionRepo.ObtenerCanal(String canal) en C:\Users\chech\source\repos\Servicios\Servicios\Datos\ConfiguracionRepo.vb:línea 6
+   en Servicios.Empresas.VB$StateMachine_18_CargarEmpresas.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Empresas.aspx.vb:línea 16
+24/10/2026 10:06:05 - System.ArgumentException: Palabra clave no admitida: 'datasource'.
+   en System.Data.Common.DbConnectionOptions.ParseInternal(Hashtable parsetable, String connectionString, Boolean buildChain, Hashtable synonyms, Boolean firstKey)
+   en System.Data.Common.DbConnectionOptions..ctor(String connectionString, Hashtable synonyms, Boolean useOdbcRules)
+   en System.Data.SqlClient.SqlConnectionString..ctor(String connectionString)
+   en System.Data.SqlClient.SqlConnectionFactory.CreateConnectionOptions(String connectionString, DbConnectionOptions previous)
+   en System.Data.ProviderBase.DbConnectionFactory.GetConnectionPoolGroup(DbConnectionPoolKey key, DbConnectionPoolGroupOptions poolOptions, DbConnectionOptions& userConnectionOptions)
+   en System.Data.SqlClient.SqlConnection.ConnectionString_Set(DbConnectionPoolKey key)
+   en System.Data.SqlClient.SqlConnection.set_ConnectionString(String value)
+   en System.Data.SqlClient.SqlConnection..ctor(String connectionString, SqlCredential credential)
+   en Servicios.ConfiguracionRepo.ObtenerCanal(String canal) en C:\Users\chech\source\repos\Servicios\Servicios\Datos\ConfiguracionRepo.vb:línea 6
+   en Servicios.Empresas.VB$StateMachine_18_CargarEmpresas.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Empresas.aspx.vb:línea 16
+24/10/2026 10:06:20 - System.ArgumentException: Palabra clave no admitida: 'datasource'.
+   en System.Data.Common.DbConnectionOptions.ParseInternal(Hashtable parsetable, String connectionString, Boolean buildChain, Hashtable synonyms, Boolean firstKey)
+   en System.Data.Common.DbConnectionOptions..ctor(String connectionString, Hashtable synonyms, Boolean useOdbcRules)
+   en System.Data.SqlClient.SqlConnectionString..ctor(String connectionString)
+   en System.Data.SqlClient.SqlConnectionFactory.CreateConnectionOptions(String connectionString, DbConnectionOptions previous)
+   en System.Data.ProviderBase.DbConnectionFactory.GetConnectionPoolGroup(DbConnectionPoolKey key, DbConnectionPoolGroupOptions poolOptions, DbConnectionOptions& userConnectionOptions)
+   en System.Data.SqlClient.SqlConnection.ConnectionString_Set(DbConnectionPoolKey key)
+   en System.Data.SqlClient.SqlConnection.set_ConnectionString(String value)
+   en System.Data.SqlClient.SqlConnection..ctor(String connectionString, SqlCredential credential)
+   en Servicios.ConfiguracionRepo.ObtenerCanal(String canal) en C:\Users\chech\source\repos\Servicios\Servicios\Datos\ConfiguracionRepo.vb:línea 6
+   en Servicios.Empresas.VB$StateMachine_18_CargarEmpresas.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Empresas.aspx.vb:línea 16
+24/10/2026 10:06:45 - System.ArgumentException: Palabra clave no admitida: 'datasource'.
+   en System.Data.Common.DbConnectionOptions.ParseInternal(Hashtable parsetable, String connectionString, Boolean buildChain, Hashtable synonyms, Boolean firstKey)
+   en System.Data.Common.DbConnectionOptions..ctor(String connectionString, Hashtable synonyms, Boolean useOdbcRules)
+   en System.Data.SqlClient.SqlConnectionString..ctor(String connectionString)
+   en System.Data.SqlClient.SqlConnectionFactory.CreateConnectionOptions(String connectionString, DbConnectionOptions previous)
+   en System.Data.ProviderBase.DbConnectionFactory.GetConnectionPoolGroup(DbConnectionPoolKey key, DbConnectionPoolGroupOptions poolOptions, DbConnectionOptions& userConnectionOptions)
+   en System.Data.SqlClient.SqlConnection.ConnectionString_Set(DbConnectionPoolKey key)
+   en System.Data.SqlClient.SqlConnection.set_ConnectionString(String value)
+   en System.Data.SqlClient.SqlConnection..ctor(String connectionString, SqlCredential credential)
+   en Servicios.ConfiguracionRepo.ObtenerCanal(String canal) en C:\Users\chech\source\repos\Servicios\Servicios\Datos\ConfiguracionRepo.vb:línea 6
+   en Servicios.Empresas.VB$StateMachine_18_CargarEmpresas.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Empresas.aspx.vb:línea 16
+24/10/2026 10:09:53 - System.ArgumentException: Palabra clave no admitida: 'datasource'.
+   en System.Data.Common.DbConnectionOptions.ParseInternal(Hashtable parsetable, String connectionString, Boolean buildChain, Hashtable synonyms, Boolean firstKey)
+   en System.Data.Common.DbConnectionOptions..ctor(String connectionString, Hashtable synonyms, Boolean useOdbcRules)
+   en System.Data.SqlClient.SqlConnectionString..ctor(String connectionString)
+   en System.Data.SqlClient.SqlConnectionFactory.CreateConnectionOptions(String connectionString, DbConnectionOptions previous)
+   en System.Data.ProviderBase.DbConnectionFactory.GetConnectionPoolGroup(DbConnectionPoolKey key, DbConnectionPoolGroupOptions poolOptions, DbConnectionOptions& userConnectionOptions)
+   en System.Data.SqlClient.SqlConnection.ConnectionString_Set(DbConnectionPoolKey key)
+   en System.Data.SqlClient.SqlConnection.set_ConnectionString(String value)
+   en System.Data.SqlClient.SqlConnection..ctor(String connectionString, SqlCredential credential)
+   en Servicios.ConfiguracionRepo.ObtenerCanal(String canal) en C:\Users\chech\source\repos\Servicios\Servicios\Datos\ConfiguracionRepo.vb:línea 6
+   en Servicios.Empresas.VB$StateMachine_18_CargarEmpresas.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Empresas.aspx.vb:línea 16
+24/10/2026 10:10:34 - System.Data.SqlClient.SqlException (0x80131904): Procedure or function 'sp_getConfigCanal' expects parameter '@Canal', which was not supplied.
+   en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   en System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   en System.Data.SqlClient.SqlDataReader.get_MetaData()
+   en System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   en System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   en System.Data.SqlClient.SqlCommand.ExecuteReader()
+   en Servicios.ConfiguracionRepo.ObtenerCanal(String canal) en C:\Users\chech\source\repos\Servicios\Servicios\Datos\ConfiguracionRepo.vb:línea 11
+   en Servicios.Empresas.VB$StateMachine_18_CargarEmpresas.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Empresas.aspx.vb:línea 16
+ClientConnectionId:1a0b6ea8-dad2-4fbc-a62e-17ca5045d6cb
+Error Number:201,State:4,Class:16
+24/10/2026 10:11:52 - System.Net.Http.HttpRequestException: Error al enviar la solicitud. ---> System.Net.WebException: No es posible conectar con el servidor remoto ---> System.Net.Sockets.SocketException: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión 127.0.0.1:5000
+   en System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   en System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   en System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   en System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Servicios.EmpresaService.VB$StateMachine_1_ObtenerEmpresasAsync.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Servicios\EmpresasServicio.vb:línea 14
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Servicios.Empresas.VB$StateMachine_18_CargarEmpresas.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Empresas.aspx.vb:línea 30
+24/10/2026 10:20:08 - System.Net.Http.HttpRequestException: Error al enviar la solicitud. ---> System.Net.WebException: No es posible conectar con el servidor remoto ---> System.Net.Sockets.SocketException: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión 127.0.0.1:5000
+   en System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   en System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   en System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   en System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Servicios.EmpresaService.VB$StateMachine_1_ObtenerEmpresasAsync.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Servicios\EmpresasServicio.vb:línea 14
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Servicios.Empresas.VB$StateMachine_18_CargarEmpresas.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Empresas.aspx.vb:línea 30
+24/10/2026 10:35:04 - System.Net.Http.HttpRequestException: Error al enviar la solicitud. ---> System.Net.WebException: Se ha terminado la conexión: Error inesperado de recepción. ---> System.IO.IOException: No se puede escribir datos de en la conexión de transporte: Se ha forzado la interrupción de una conexión existente por el host remoto. ---> System.Net.Sockets.SocketException: Se ha forzado la interrupción de una conexión existente por el host remoto
+   en System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   en System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   en System.Net.Connection.ReadCallback(IAsyncResult asyncResult)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   en System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Servicios.EmpresaService.VB$StateMachine_1_ObtenerEmpresasAsync.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Servicios\EmpresasServicio.vb:línea 14
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Servicios.Empresas.VB$StateMachine_18_CargarEmpresas.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Empresas.aspx.vb:línea 30
+24/10/2026 10:36:35 - System.Net.Http.HttpRequestException: Error al enviar la solicitud. ---> System.Net.WebException: Se ha terminado la conexión: Error inesperado de recepción. ---> System.IO.IOException: No se puede escribir datos de en la conexión de transporte: Se ha forzado la interrupción de una conexión existente por el host remoto. ---> System.Net.Sockets.SocketException: Se ha forzado la interrupción de una conexión existente por el host remoto
+   en System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   en System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   en System.Net.Connection.ReadCallback(IAsyncResult asyncResult)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   en System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Servicios.EmpresaService.VB$StateMachine_1_ObtenerEmpresasAsync.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Servicios\EmpresasServicio.vb:línea 14
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Servicios.Empresas.VB$StateMachine_18_CargarEmpresas.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Empresas.aspx.vb:línea 30
+24/10/2026 11:44:36 - System.Data.SqlClient.SqlException (0x80131904): Procedure or function 'sp_getConfigCanal' expects parameter '@Canal', which was not supplied.
+   en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   en System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   en System.Data.SqlClient.SqlDataReader.get_MetaData()
+   en System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   en System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   en System.Data.SqlClient.SqlCommand.ExecuteReader()
+   en Servicios.ConfiguracionRepo.ObtenerCanal(String canal) en C:\Users\chech\source\repos\Servicios\Servicios\Datos\ConfiguracionRepo.vb:línea 11
+   en Servicios.Empresas.VB$StateMachine_18_CargarEmpresas.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Empresas.aspx.vb:línea 16
+ClientConnectionId:f3a267c5-d380-4e6b-8ec2-cc12134ebf24
+Error Number:201,State:4,Class:16
+24/10/2026 12:06:56 - System.Net.Http.HttpRequestException: Error al enviar la solicitud. ---> System.Net.WebException: No es posible conectar con el servidor remoto ---> System.Net.Sockets.SocketException: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión 127.0.0.1:5000
+   en System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   en System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   en System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   en System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Servicios.EmpresaService.VB$StateMachine_1_ObtenerEmpresasAsync.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Servicios\EmpresasServicio.vb:línea 14
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Servicios.Empresas.VB$StateMachine_18_CargarEmpresas.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Empresas.aspx.vb:línea 30
+24/10/2026 12:07:04 - System.Net.Http.HttpRequestException: Error al enviar la solicitud. ---> System.Net.WebException: No es posible conectar con el servidor remoto ---> System.Net.Sockets.SocketException: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión 127.0.0.1:5000
+   en System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   en System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   en System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   en System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Servicios.EmpresaService.VB$StateMachine_1_ObtenerEmpresasAsync.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Servicios\EmpresasServicio.vb:línea 14
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Servicios.Empresas.VB$StateMachine_18_CargarEmpresas.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Empresas.aspx.vb:línea 30
+24/10/2026 12:07:21 - System.Net.Http.HttpRequestException: Error al enviar la solicitud. ---> System.Net.WebException: No es posible conectar con el servidor remoto ---> System.Net.Sockets.SocketException: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión 127.0.0.1:5000
+   en System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   en System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   en System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   en System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Servicios.EmpresaService.VB$StateMachine_1_ObtenerEmpresasAsync.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Servicios\EmpresasServicio.vb:línea 14
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Servicios.Empresas.VB$StateMachine_18_CargarEmpresas.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Empresas.aspx.vb:línea 30
+24/10/2026 12:08:26 - System.Net.Http.HttpRequestException: Error al enviar la solicitud. ---> System.Net.WebException: No es posible conectar con el servidor remoto ---> System.Net.Sockets.SocketException: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión 127.0.0.1:5000
+   en System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   en System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   en System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   en System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Servicios.EmpresaService.VB$StateMachine_1_ObtenerEmpresasAsync.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Servicios\EmpresasServicio.vb:línea 14
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Servicios.Empresas.VB$StateMachine_18_CargarEmpresas.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Empresas.aspx.vb:línea 30
+24/10/2026 12:10:34 - System.Net.Http.HttpRequestException: Error al enviar la solicitud. ---> System.Net.WebException: Se ha terminado la conexión: Error inesperado de recepción. ---> System.IO.IOException: No se puede escribir datos de en la conexión de transporte: Se ha forzado la interrupción de una conexión existente por el host remoto. ---> System.Net.Sockets.SocketException: Se ha forzado la interrupción de una conexión existente por el host remoto
+   en System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   en System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   en System.Net.Connection.ReadCallback(IAsyncResult asyncResult)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   en System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Servicios.EmpresaService.VB$StateMachine_1_ObtenerEmpresasAsync.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Servicios\EmpresasServicio.vb:línea 14
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Servicios.Empresas.VB$StateMachine_18_CargarEmpresas.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Empresas.aspx.vb:línea 30
+24/10/2026 12:18:20 - System.Net.Http.HttpRequestException: El código de estado de la respuesta no indica un resultado correcto: 404 (Not Found).
+   en System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   en Servicios.EmpresaService.VB$StateMachine_1_ObtenerEmpresasAsync.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Servicios\EmpresasServicio.vb:línea 15
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Servicios.Empresas.VB$StateMachine_18_CargarEmpresas.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Empresas.aspx.vb:línea 30
+24/10/2026 12:18:39 - System.Net.Http.HttpRequestException: El código de estado de la respuesta no indica un resultado correcto: 401 (Unauthorized).
+   en System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   en Servicios.EmpresaService.VB$StateMachine_1_ObtenerEmpresasAsync.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Servicios\EmpresasServicio.vb:línea 15
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Servicios.Empresas.VB$StateMachine_18_CargarEmpresas.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Empresas.aspx.vb:línea 30
+24/10/2026 12:19:32 - System.Net.Http.HttpRequestException: El código de estado de la respuesta no indica un resultado correcto: 401 (Unauthorized).
+   en System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   en Servicios.EmpresaService.VB$StateMachine_1_ObtenerEmpresasAsync.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Servicios\EmpresasServicio.vb:línea 15
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Servicios.Empresas.VB$StateMachine_18_CargarEmpresas.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Empresas.aspx.vb:línea 30
+24/10/2026 12:20:40 - System.Threading.Tasks.TaskCanceledException: Se canceló una tarea.
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Servicios.EmpresaService.VB$StateMachine_1_ObtenerEmpresasAsync.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Servicios\EmpresasServicio.vb:línea 14
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Servicios.Empresas.VB$StateMachine_18_CargarEmpresas.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Empresas.aspx.vb:línea 30
+24/10/2026 12:21:08 - System.Threading.Tasks.TaskCanceledException: Se canceló una tarea.
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Servicios.EmpresaService.VB$StateMachine_1_ObtenerEmpresasAsync.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Servicios\EmpresasServicio.vb:línea 14
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Servicios.Empresas.VB$StateMachine_18_CargarEmpresas.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Empresas.aspx.vb:línea 30
+24/10/2026 12:22:37 - System.Threading.Tasks.TaskCanceledException: Se canceló una tarea.
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Servicios.EmpresaService.VB$StateMachine_1_ObtenerEmpresasAsync.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Servicios\EmpresasServicio.vb:línea 14
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Servicios.Empresas.VB$StateMachine_18_CargarEmpresas.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Empresas.aspx.vb:línea 30
+24/10/2026 12:27:58 - System.Threading.Tasks.TaskCanceledException: Se canceló una tarea.
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Servicios.EmpresaService.VB$StateMachine_1_ObtenerEmpresasAsync.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Servicios\EmpresasServicio.vb:línea 15
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Servicios.Empresas.VB$StateMachine_18_CargarEmpresas.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Empresas.aspx.vb:línea 30
+24/10/2026 12:28:40 - System.Exception: No se encontraron empresas para el canal seleccionado.
+   en Servicios.EmpresaService.VB$StateMachine_1_ObtenerEmpresasAsync.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Servicios\EmpresasServicio.vb:línea 29
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Servicios.Empresas.VB$StateMachine_18_CargarEmpresas.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Empresas.aspx.vb:línea 30
+24/10/2026 12:29:19 - System.Threading.Tasks.TaskCanceledException: Se canceló una tarea.
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Servicios.EmpresaService.VB$StateMachine_1_ObtenerEmpresasAsync.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Servicios\EmpresasServicio.vb:línea 15
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Servicios.Empresas.VB$StateMachine_18_CargarEmpresas.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Empresas.aspx.vb:línea 30
+24/10/2026 12:29:54 - System.Data.SqlClient.SqlException (0x80131904): Procedure or function 'sp_getConfigCanal' expects parameter '@Canal', which was not supplied.
+   en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   en System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   en System.Data.SqlClient.SqlDataReader.get_MetaData()
+   en System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   en System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   en System.Data.SqlClient.SqlCommand.ExecuteReader()
+   en Servicios.ConfiguracionRepo.ObtenerCanal(String canal) en C:\Users\chech\source\repos\Servicios\Servicios\Datos\ConfiguracionRepo.vb:línea 11
+   en Servicios.Empresas.VB$StateMachine_18_CargarEmpresas.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Empresas.aspx.vb:línea 16
+ClientConnectionId:25a6db8a-4f93-4c75-9e18-0d565fd3d7a0
+Error Number:201,State:4,Class:16
+24/10/2026 12:30:39 - System.Threading.Tasks.TaskCanceledException: Se canceló una tarea.
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Servicios.EmpresaService.VB$StateMachine_1_ObtenerEmpresasAsync.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Servicios\EmpresasServicio.vb:línea 15
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Servicios.Empresas.VB$StateMachine_18_CargarEmpresas.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Empresas.aspx.vb:línea 30
+24/10/2026 12:30:54 - System.Exception: No se encontraron empresas para el canal seleccionado.
+   en Servicios.EmpresaService.VB$StateMachine_1_ObtenerEmpresasAsync.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Servicios\EmpresasServicio.vb:línea 29
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Servicios.Empresas.VB$StateMachine_18_CargarEmpresas.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Empresas.aspx.vb:línea 30
+24/10/2026 12:31:04 - System.Threading.Tasks.TaskCanceledException: Se canceló una tarea.
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Servicios.EmpresaService.VB$StateMachine_1_ObtenerEmpresasAsync.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Servicios\EmpresasServicio.vb:línea 15
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Servicios.Empresas.VB$StateMachine_18_CargarEmpresas.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Empresas.aspx.vb:línea 30
+24/10/2026 12:31:09 - System.Exception: El servicio devolvió un error interno.
+   en Servicios.EmpresaService.VB$StateMachine_1_ObtenerEmpresasAsync.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Servicios\EmpresasServicio.vb:línea 35
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Servicios.Empresas.VB$StateMachine_18_CargarEmpresas.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Empresas.aspx.vb:línea 30
+24/10/2026 12:33:13 - System.Exception: API Key inválida.
+   en Servicios.EmpresaService.VB$StateMachine_1_ObtenerEmpresasAsync.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Servicios\EmpresasServicio.vb:línea 32
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en Servicios.Empresas.VB$StateMachine_18_CargarEmpresas.MoveNext() en C:\Users\chech\source\repos\Servicios\Servicios\Empresas.aspx.vb:línea 30
